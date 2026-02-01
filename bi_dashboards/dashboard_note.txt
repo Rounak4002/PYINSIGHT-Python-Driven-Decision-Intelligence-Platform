@@ -1,0 +1,5 @@
+Power BI / Tableau Dashboard includes:
+- Revenue trend over time
+- Region-wise performance
+- Product contribution
+- KPI summary cards
