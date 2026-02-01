@@ -1,0 +1,6 @@
+date,region,product,units_sold,price
+2024-01-01,East,Laptop,5,55000
+2024-01-02,West,Mobile,10,20000
+2024-01-03,North,Tablet,7,30000
+2024-01-04,South,Laptop,3,55000
+2024-01-05,East,Mobile,8,20000
